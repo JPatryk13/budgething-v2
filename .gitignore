@@ -174,8 +174,7 @@ cython_debug/
 .pypirc
 
 # Input/Output CSV/PKL files
-data/input/*.csv
-data/pickles/*.pkl
+data/**/*.csv
 
 # Intentional ignore
 *_nogit
