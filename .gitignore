@@ -172,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Input/Output CSV/PKL files
+data/input/*.csv
+data/pickles/*.pkl
+
+# Intentional ignore
+*_nogit
+
+# VS Code config
+.vscode/

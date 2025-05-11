@@ -1,0 +1,18 @@
+Type        , Product, Started Date       , Completed Date     , Description               , Amount, Fee , Currency, State    , Balance
+CARD_PAYMENT, Current, 2024-04-30 16:45:30, 2024-05-01 12:34:19, Tesco                     , -4.19 , 0.00, GBP     , COMPLETED,  859.12
+TRANSFER    , Current, 2024-05-02 09:38:10, 2024-05-02 09:43:29, To John Doe               , -15.86, 0.50, GBP     , COMPLETED,  842.76
+TRANSFER    , Current, 2024-05-02 22:18:52,                    , Transfer to Revolut user  , -5.74 , 0.00, GBP     , REVERTED ,  837.02
+TRANSFER    , Current, 2024-05-02 22:18:55, 2024-05-02 22:18:55, Transfer to Revolut user  , -23.96, 0.00, GBP     , COMPLETED,  813.06
+TRANSFER    , Current, 2024-05-02 23:16:43, 2024-05-02 23:16:43, Transfer to Revolut user  , -33.49, 0.00, GBP     , COMPLETED,  779.57
+TRANSFER    , Current, 2024-05-02 23:17:02, 2024-05-02 23:17:02, Transfer to Revolut user  , -1.69 , 0.00, GBP     , COMPLETED,  777.88
+TRANSFER    , Current, 2024-05-03 12:30:54, 2024-05-03 12:30:54, Transfer to Revolut user  , -5.43 , 0.00, GBP     , COMPLETED,  772.45
+CARD_PAYMENT, Current, 2024-05-03 14:57:04, 2024-05-04 12:37:11, Tesco                     , -3.69 , 0.00, GBP     , COMPLETED,  768.76
+CARD_PAYMENT, Current, 2024-05-04 22:31:29, 2024-05-05 11:55:42, Tesco                     , -10.04, 0.00, GBP     , COMPLETED,  758.72
+TRANSFER    , Current, 2024-05-05 23:17:28, 2024-05-05 23:17:29, Transfer to Revolut user  , -28.00, 0.00, GBP     , COMPLETED,  730.72
+TRANSFER    , Current, 2024-05-05 23:17:45, 2024-05-05 23:17:45, Transfer to Revolut user  , -1.69 , 0.00, GBP     , COMPLETED,  729.03
+TRANSFER    , Current, 2024-05-05 23:31:30, 2024-05-05 23:31:30, Transfer from Revolut user, 2.25  , 0.00, GBP     , COMPLETED,  731.28
+TRANSFER    , Current, 2024-05-06 00:55:27, 2024-05-06 00:55:27, Transfer from Revolut user, 3.70  , 0.00, GBP     , COMPLETED,  734.98
+CARD_PAYMENT, Current, 2024-05-05 09:12:27, 2024-05-06 10:48:33, Voi Scooters              , -3.19 , 0.00, GBP     , COMPLETED,  731.79
+CARD_PAYMENT, Current, 2024-05-05 17:50:26, 2024-05-06 11:52:18, Tesco                     , -4.50 , 2.50, GBP     , COMPLETED,  727.29
+CARD_PAYMENT, Current, 2024-05-05 23:36:29, 2024-05-06 11:52:34, Tesco                     , -7.40 , 0.00, GBP     , COMPLETED,  719.89
+TRANSFER    , Current, 2024-05-07 11:04:16, 2024-05-07 11:04:17, To Karen Smith            , -45.00, 0.00, GBP     , COMPLETED,  674.89

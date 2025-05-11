@@ -1,0 +1,1 @@
+ETL pipeline for financial transactions. Non-comercial version of my BudgeThing project.
